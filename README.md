@@ -14,6 +14,7 @@
 <h2>Nice projects</h2>
 <ul>
   <li><a href="https://github.com/AlphaGameDeveloper/Hydra">Hydra</a></li>
+  <li><a href="https://github.com/AlphaGameDeveloper/Lindows/">Lindows</a></li>
 </ul>
 <h2>Programming languages</h2>
 <ul>
