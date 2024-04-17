@@ -35,7 +35,7 @@
 <a href="https://twitter.com/_alphagamedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_alphagamedev" height="30" width="40" /></a>
 <a href="https://instagram.com/alphagamedeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alphagamedeveloper" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/alphagamedeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alphagamedeveloper" height="30" width="40" /></a>
-<a href="/https://alphagame.dev/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://alphagame.dev/feed.xml" height="30" width="40" /></a>
+<a href="https://alphagame.dev/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://alphagame.dev/feed.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
