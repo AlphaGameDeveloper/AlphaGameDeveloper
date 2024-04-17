@@ -26,7 +26,7 @@
 
 - ⚡ Fun fact **I am an ENTP personality type, and 7w8 on Annegram. My alignment is Chaotic Neutral.**
 
-### Blogs posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
