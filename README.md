@@ -28,10 +28,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [DISC to MBTI Algorithm](https://alphagame.dev//blog/2024/04/disc-to-mbti)
-- [KonamiRickroll: Add a rickroll to your site via Konami code](https://alphagame.dev//blog/2024/03/konamirickroll-add-a-rickroll-to-site)
-- [Running a public website on an Arduino](https://alphagame.dev//blog/2023/12/public-website-on-arduino)
-- [Running an Arduino directly off of solar panels… &lpar;PART 1: Planning&rpar;](https://alphagame.dev//blog/2023/11/running-an-arduino-directly-off-of-solar-panels-part-1-planning)
+- [DISC to MBTI Algorithm](https://alphagame.dev/blog/2024/04/disc-to-mbti)
+- [KonamiRickroll: Add a rickroll to your site via Konami code](https://alphagame.dev/blog/2024/03/konamirickroll-add-a-rickroll-to-site)
+- [Running a public website on an Arduino](https://alphagame.dev/blog/2023/12/public-website-on-arduino)
+- [Running an Arduino directly off of solar panels… &lpar;PART 1: Planning&rpar;](https://alphagame.dev/blog/2023/11/running-an-arduino-directly-off-of-solar-panels-part-1-planning)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
