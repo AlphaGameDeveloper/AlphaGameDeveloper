@@ -47,3 +47,9 @@
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alphagamedeveloper&show_icons=true&locale=en" alt="alphagamedeveloper" /></p>
 -->
+
+<h2>Code stats</h2>
+<h3>Languages</h3>
+<img src="https://wakatime.com/share/@018e9fea-539d-4562-81f6-d55ad2a18943/00fc2470-aac3-4cd5-9902-9ccf6dd8ba85.svg" />
+<h3>Coding Time</h3>
+<img src="https://wakatime.com/share/@018e9fea-539d-4562-81f6-d55ad2a18943/59366e5a-86ce-4a7b-879a-267259bd3b47.svg" />
