@@ -28,10 +28,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Big Changes Coming to AlphaGameBot](https://alphagame.dev/blog/2024/06/big-changes-coming-to-alphagamebot)
 - [AlphaGameBot 2.4 Changelog!](https://alphagame.dev/blog/2024/04/alphagamebot-2-4-changelog)
 - [DISC to MBTI Algorithm](https://alphagame.dev/blog/2024/04/disc-to-mbti)
 - [KonamiRickroll: Add a rickroll to your site via Konami code](https://alphagame.dev/blog/2024/03/konamirickroll-add-a-rickroll-to-site)
-- [Running a public website on an Arduino](https://alphagame.dev/blog/2023/12/public-website-on-arduino)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
