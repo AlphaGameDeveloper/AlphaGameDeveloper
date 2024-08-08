@@ -25,6 +25,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [AlphaGameBot Leveling System](https://alphagame.dev/blog/2024/07/alphagamebot-leveling-system)
+- [AlphaGameBot WebUI and Database… A rocky start, and also a GoDaddy rant…](https://alphagame.dev/blog/2024/06/alphagamebot-update-rocky-start)
+- [Big Changes Coming to AlphaGameBot](https://alphagame.dev/blog/2024/06/big-changes-coming-to-alphagamebot)
+- [AlphaGameBot 2.4 Changelog!](https://alphagame.dev/blog/2024/04/alphagamebot-2-4-changelog)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
