@@ -21,21 +21,24 @@
 
 - 📄 Know about my experiences [https://www.alphagame.dev/about](https://www.alphagame.dev/about)
 
-- ⚡ Fun fact **My personality type is: ENTP-X 7w8 [783] so/sp Chaotic Neutral**
+- ⚡ Fun fact **My personality type is: ENTP-X 7w8 [783] so/sx Chaotic Neutral**
+
+### Linux Distributions
+- Ubuntu (Desktop & Server)
+  - Lubuntu
+- Raspian
+- Alpine
+- [AlphaOS](https://alphagame.dev/projects/alphaos)
+- Arch *(I use Arch, btw)*
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [AlphaGameBot Leveling System](https://alphagame.dev/blog/2024/07/alphagamebot-leveling-system)
-- [AlphaGameBot WebUI and Database… A rocky start, and also a GoDaddy rant…](https://alphagame.dev/blog/2024/06/alphagamebot-update-rocky-start)
-- [Big Changes Coming to AlphaGameBot](https://alphagame.dev/blog/2024/06/big-changes-coming-to-alphagamebot)
-- [AlphaGameBot 2.4 Changelog!](https://alphagame.dev/blog/2024/04/alphagamebot-2-4-changelog)
-<!-- BLOG-POST-LIST:END -->
+My blog can be found [here](https://alphagame.dev/blog)!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/alphagamedev_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alphagamedev_" height="30" width="40" /></a>
 <a href="https://instagram.com/alphagamedeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alphagamedeveloper" height="30" width="40" /></a>
-<a href="/https://www.alphagame.dev/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.alphagame.dev/feed.xml" height="30" width="40" /></a>
+<a href="https://www.alphagame.dev/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.alphagame.dev/feed.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
