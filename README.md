@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm AlphaGameDeveloper</h1>
+<h1 align="center">👋 Hi, I'm AlphaGameDeveloper</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alphagamedeveloper" alt="alphagamedeveloper" /></a> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=alphagamedeveloper" alt="alphagamedeveloper" /></p>
 
 - 🔭 I’m currently working on [AlphaGameBot](https://alphagame.dev/alphagamebot/)
 
-- 🌱 I’m currently learning **Scala and Django**
+- 🌱 I’m currently learning **Java ☕**
 
 - 👯 I’m looking to collaborate on **Almost anything!**
 
@@ -26,12 +26,13 @@
 ### Linux Distributions
 - Ubuntu (Desktop & Server)
   - Lubuntu
+  - Linux Mint
 - Raspian
 - Alpine
 - [AlphaOS](https://alphagame.dev/projects/alphaos)
 - Arch *(I use Arch, btw)*
 
-### Blogs posts
+### Blog Posts
 My blog can be found [here](https://alphagame.dev/blog)!
 
 <h3 align="left">Connect with me:</h3>
