@@ -47,6 +47,6 @@ My blog can be found [here](https://alphagame.dev/blog)!
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alphagamedeveloper&show_icons=true&locale=en&layout=compact" alt="alphagamedeveloper" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alphagamedeveloper&show_icons=true&locale=en" alt="alphagamedeveloper" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alphagamedeveloper&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyo_night&show_icons=true" alt="alphagamedeveloper" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alphagamedeveloper&" alt="alphagamedeveloper" /></p>
