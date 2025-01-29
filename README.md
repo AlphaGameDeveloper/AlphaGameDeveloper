@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [AlphaGameBot](https://alphagame.dev/alphagamebot/)
 
-- 🌱 I’m currently learning **Java ☕**
+- 🌱 I’m currently learning **Java ☕ and Ansible**
 
 - 👯 I’m looking to collaborate on **Almost anything!**
 
