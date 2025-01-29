@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [AlphaGameBot](https://alphagame.dev/alphagamebot/)
 
-- 🌱 I’m currently learning **Java ☕ and Ansible**
+- 🌱 I’m currently learning **Java ☕ and Ansible ⚙️**
 
 - 👯 I’m looking to collaborate on **Almost anything!**
 
@@ -23,6 +23,7 @@
 
 - ⚡ Fun fact **My personality type is: ENTP-X 7w8 [783] so/sx Chaotic Neutral**
 
+- 💼 I do freelance software development **on my [Fiverr](https://fiverr.com/damienboisvert)**
 ### Linux Distributions
 - Ubuntu (Desktop & Server)
   - Lubuntu
