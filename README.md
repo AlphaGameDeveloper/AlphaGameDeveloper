@@ -23,6 +23,9 @@
 
 - ⚡ Fun fact **My personality type is: ENTP-X 7w8 [783] so/sx Chaotic Neutral**
 
+- 🐧 I am a member of **FRC Team 2551 - Penguin Empire Robotics**
+  - I'm a programmer and the networking guy.
+
 - 💼 I do freelance software development **on my [Fiverr](https://fiverr.com/damienboisvert)**
 ### Linux Distributions
 - Ubuntu (Desktop & Server)
