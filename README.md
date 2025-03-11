@@ -3,7 +3,7 @@
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=alphagamedeveloper" alt="alphagamedeveloper" /></p>
 
-- 🔭 I’m currently working on [AlphaGameBot](https://alphagame.dev/alphagamebot/)
+- 🔭 I’m currently working on [AlphaGameBot](https://www.alphagamebot.com)
 
 - 🌱 I’m currently learning **Java ☕ and Ansible ⚙️**
 
@@ -35,6 +35,13 @@
 - Alpine
 - [AlphaOS](https://alphagame.dev/projects/alphaos)
 - Arch *(I use Arch, btw)*
+
+### Current Projects / Repositories
+- [AlphaGameBot](https://alphagamebot.com)
+  - [AlphaGameBot/AlphaGameBot](https://github.com/AlphaGameBot/AlphaGameBot)
+  - [AlphaGameBot/WebUI](https://github.com/AlphaGameBot/WebUI)
+  - [AlphaGameBot/AlphaGameBot.com](https://github.com/AlphaGameBot/AlphaGameBot.com)
+- [AlphaOS](https://github.com/AlphaGameDeveloper/AlphaOS)
 
 ### Blog Posts
 My blog can be found [here](https://alphagame.dev/blog)!
