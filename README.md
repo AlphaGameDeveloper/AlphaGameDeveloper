@@ -3,7 +3,7 @@
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=alphagamedeveloper" alt="alphagamedeveloper" /></p>
 
-- 🔭 I’m currently working on [AlphaGameBot](https://www.alphagamebot.com)
+- 🔭 I’m currently working on [AlphaGameBot](https://www.alphagamebot.com) and [Penguin Empire Robotics' 2025 Robot](https://github.com/PenguinEmpire/swerve2025)
 
 - 🌱 I’m currently learning **Java ☕ and Ansible ⚙️**
 
