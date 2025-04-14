@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm AlphaGameDeveloper</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Full Stack Developer, A/V Technician, and Sysadmin.</h3>
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=alphagamedeveloper" alt="alphagamedeveloper" /></p>
 
