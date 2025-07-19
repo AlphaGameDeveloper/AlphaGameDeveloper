@@ -3,9 +3,9 @@
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=alphagamedeveloper" alt="alphagamedeveloper" /></p>
 
-- 🔭 I’m currently working on [AlphaGameBot](https://www.alphagamebot.com) P.I.N.G.U.I.N., and the [St. Anthony Youth Website](https://github.com/StAnthonyNovato/SAY-Website)
+- 🔭 I’m currently working on the [St. Anthony Youth Website](https://github.com/StAnthonyNovato/SAY-Website)
 
-- 🌱 I’m currently learning **Java ☕ and Ansible ⚙️**
+- 🌱 I’m currently learning **Ruby 💎 and Ansible ⚙️**
 
 - 👯 I’m looking to collaborate on **Almost anything!**
 
