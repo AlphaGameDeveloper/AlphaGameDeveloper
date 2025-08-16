@@ -43,6 +43,9 @@
   - [AlphaGameBot/AlphaGameBot.com](https://github.com/AlphaGameBot/AlphaGameBot.com)
 - [AlphaOS](https://github.com/AlphaGameDeveloper/AlphaOS)
 
+### Hackatime
+<img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=17405&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" />
+
 ### Blog Posts
 My blog can be found [here](https://alphagame.dev/blog)!
 
