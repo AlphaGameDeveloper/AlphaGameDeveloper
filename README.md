@@ -3,9 +3,9 @@
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=alphagamedeveloper" alt="alphagamedeveloper" /></p>
 
-- 🔭 I’m currently working on the [St. Anthony Youth Website](https://github.com/StAnthonyNovato/SAY-Website)
+- 🔭 I’m currently working on **getting my CCNA Certifications**
 
-- 🌱 I’m currently learning **Ruby 💎 and Ansible ⚙️**
+- 🌱 I’m currently learning **Node & TypeScript**
 
 - 👯 I’m looking to collaborate on **Almost anything!**
 
@@ -26,19 +26,17 @@
 - 🐧 I am a member of **FRC Team 2551 - Penguin Empire Robotics**
   - I'm a programmer and the networking guy.
 
-- 💼 I do freelance software development **on my [Fiverr](https://fiverr.com/damienboisvert)**
 ### Linux Distributions
 - Ubuntu (Desktop & Server)
   - Lubuntu
   - Linux Mint
 - Raspian
 - Alpine
-- [AlphaOS](https://alphagame.dev/projects/alphaos)
-- Arch *(I use Arch, btw)*
+- Arch - daily driver *(I use Arch, btw)*
 
 ### Current Projects / Repositories
 - [AlphaGameBot](https://alphagamebot.com)
-  - [AlphaGameBot/AlphaGameBot](https://github.com/AlphaGameBot/AlphaGameBot)
+  - [AlphaGameBot/AlphaGameBotJS](https://github.com/AlphaGameBot/AlphaGameBotJS)
   - [AlphaGameBot/WebUI](https://github.com/AlphaGameBot/WebUI)
   - [AlphaGameBot/AlphaGameBot.com](https://github.com/AlphaGameBot/AlphaGameBot.com)
 - [AlphaOS](https://github.com/AlphaGameDeveloper/AlphaOS)
