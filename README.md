@@ -26,6 +26,10 @@
 - 🐧 I am a member of **FRC Team 2551 - Penguin Empire Robotics**
   - I'm a programmer and the networking guy.
 
+### Awards
+* Best Use of Palantir AI Platform - Los Altos Hacks IX - April 2025
+* Best overall - SRCS Regional Hackathon - October 2025
+
 ### Linux Distributions
 - Ubuntu (Desktop & Server)
   - Lubuntu
